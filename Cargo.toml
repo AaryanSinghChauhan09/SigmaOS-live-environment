@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-live-environment"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS live-environment component - installer"
+
+[lib]
+name = "live_environment"
+path = "src/lib.rs"
