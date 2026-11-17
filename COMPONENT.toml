@@ -3,7 +3,7 @@ name = "SigmaOS-live-environment"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "live-environment component"
+description = "Live Environment"
 upstream = []
 
 [contract]
